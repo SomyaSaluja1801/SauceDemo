@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@cypress/skip-test": "^2.6.1",
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "12.17.4",
+    "cypress-localstorage-commands": "^2.2.6",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
